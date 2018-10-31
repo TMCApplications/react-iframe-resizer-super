@@ -1,6 +1,6 @@
 {
-  "name": "react-iframe-resizer-super",
-  "version": "0.2.0",
+  "name": "@tmc/react-iframe-resizer-super",
+  "version": "0.2.2",
   "description": "React Iframe Resizer With Super-Powers (cross domain, resize, etc)",
   "repository": {
     "type": "git",
@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "prepublish": ". ./.scripts/prepublish.sh",
+    "prepublish": "bash .scripts/prepublish.sh",
     "lint": "eslint src",
     "lintfix": "eslint src --fix",
     "testonly": "mocha --require .scripts/mocha_runner src/**/tests/**/*.js",
@@ -56,5 +56,10 @@
   "main": "dist/index.js",
   "engines": {
     "npm": "^3.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/zeroasterisk/react-iframe-resizer-super/issues"
+  },
+  "homepage": "https://github.com/zeroasterisk/react-iframe-resizer-super#readme",
+  "author": ""
 }

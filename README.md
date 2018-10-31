@@ -1,4 +1,5 @@
 # React Iframe Resizer With Super-Powers (cross domain, resize, etc)
+[![npm version](https://badge.fury.io/js/%40tmc%2Freact-iframe-resizer-super.svg)](https://www.npmjs.com/package/@tmc/react-iframe-resizer-super)
 
 This is a versatile [React](https://facebook.github.io/react/) Component
 which renders an iframe and wires in the excellent
